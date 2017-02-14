@@ -99,7 +99,7 @@ return array(
         'callback' => false, //检测文件是否存在回调函数，如果存在返回文件信息数组
     ), //附件上传配置（文件上传类配置）
 
-    'URL_MODEL'       => 2,       //URL模式
+    'URL_MODEL'       => 3,       //URL模式
     'URL_ROUTER_ON'   => true,    //开启路由
     'LOAD_EXT_CONFIG' => 'route'  //插件URL模式
 );
