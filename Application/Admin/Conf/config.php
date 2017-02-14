@@ -104,7 +104,7 @@ return array(
     'TMPL_ACTION_SUCCESS'   =>  MODULE_PATH.'View/Public/success.html', // 默认成功跳转对应的模板文件
     'TMPL_EXCEPTION_FILE'   =>  MODULE_PATH.'View/Public/exception.html',// 异常页面的模板文件
 
-    'URL_MODEL'       => 2,       //URL模式
+    'URL_MODEL'       => 3,       //URL模式
      /* 芒果自定义配置 (如需新增配置,请在下列) */
     'LOAD_EXT_CONFIG' => 'fields',                 //字段类型解析
     'AMANGO_VERSION'  => '[Eddie]2.2',
